@@ -1,0 +1,11 @@
+PASSENGER_ID,PASSENGER_NAME,DATE_OF_TRIP,PICK_UP_LOCATION,DROP_OFF_LOCATION,FARE,DRIVER_ID
+1,"John Doe","2023-11-01 01:22:30","Location A","Location B",35.50,1
+2,"Jane Smith","2023-11-02 02:00:00","Location C","Location D",42.25,2
+3,"Alice Johnson","2023-11-03 03:20:00","Location E","Location F",28.75,3
+4,"Bob Williams","2023-11-04 00:30:00","Location G","Location H",50.00,2
+5,"Emma Brown","2023-11-05 06:00:10","Location I","Location J",20.00,1
+6,"William Davis","2023-11-06 03:02:00","Location K","Location L",38.50,3
+7,"Olivia Wilson","2023-11-07 12:10:00","Location M","Location N",45.75,2
+8,"James Taylor","2023-11-08 03:10:00","Location O","Location P",32.25,1
+9,"Sophia Martinez","2023-11-09 04:10:30","Location Q","Location R",55.00,3
+10,"Logan Garcia","2023-11-10 08:00:00","Location S","Location T",28.00,2
